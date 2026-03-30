@@ -54,7 +54,7 @@ Study-Planner-Java/
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/your-username/Study-Planner-Java.git
+git clone https://github.com/Atharv-Guptahjg/Study-Planner-Java.git
 ```
 
 ### Step 2: Navigate to Project Folder
@@ -128,8 +128,8 @@ Output: You need to study!
 
 ## 👨‍💻 Author
 
-* Your Name
-* Course: [Your Course Name]
+* AtharvGupta
+* Course: [Java]
 * Institution: VIT Bhopal University
 
 ---
